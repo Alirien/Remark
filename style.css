@@ -1,0 +1,52 @@
+.slick-prev:before, .slick-next:before {
+    background-color: aqua;
+}
+.page_body_inf_text{
+    font-size: 1vw;
+    color:black;
+
+}
+.page_header_slider{
+    position: absolute;
+    display: flex;
+}
+.header_container{
+    display: flex;
+    justify-content: right;
+}
+.page_header_slider_image{
+border-radius: 15px;
+}
+.page
+{
+
+    margin-top: 25px;
+    margin-right: 55px;
+    margin-left: 25px;
+
+}
+.page_header_slider_item{
+    border-radius: 10px;
+}
+.page_body_button
+{
+    padding: 1rem;
+    background-color: #ffd800;
+    border-style: none;
+}
+.page_body_container{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.page_header_label
+{
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: x-large;
+}
+.page_header_arrow
+{
+
+}
